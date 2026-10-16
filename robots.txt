@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ringrongringbro-lab.github.io/Anime-asi/sitemap.xml
